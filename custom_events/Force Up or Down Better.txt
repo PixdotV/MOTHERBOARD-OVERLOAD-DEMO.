@@ -1,0 +1,9 @@
+Forces you to use either up or
+downscroll (think I fixed it, or at least made it look better)
+
+value1 = 1 for upscroll (number does matter)
+value2 = 1 for downscroll (number does matter)
+
+you can mess wit da x and y's in the event lua if you want
+
+

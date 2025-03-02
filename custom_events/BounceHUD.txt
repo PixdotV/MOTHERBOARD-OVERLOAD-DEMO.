@@ -1,0 +1,9 @@
+zoom
+
+valor 1= 1
+valor 2=
+
+no zoom
+
+Valor 1=
+Valor 2= 2
