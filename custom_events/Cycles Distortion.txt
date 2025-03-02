@@ -1,0 +1,5 @@
+Value 1 = float name (amount/pixel), ease
+Value 2 = float, duration
+or
+Value 1 = static, ease
+Value 2 = alpha, duration

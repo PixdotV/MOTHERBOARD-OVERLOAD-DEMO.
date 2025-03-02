@@ -1,0 +1,7 @@
+Makes X do a lil' Dash
+
+v1 = Toggle
+
+0 for Just GF
+1 for Just Dad
+2 for Both
