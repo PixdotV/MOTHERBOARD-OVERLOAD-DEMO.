@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				384,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				255,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				327,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				135,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				268,
+				254
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/POVMother",
+	"position": [
+		205,
+		-310
+	],
+	"healthicon": "icon-mother",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		20,
+		35
+	],
+	"camera_position": [
+		-180,
+		370
+	],
+	"sing_duration": 12,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

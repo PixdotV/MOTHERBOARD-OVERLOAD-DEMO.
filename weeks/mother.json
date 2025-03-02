@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Countdown",
+			"mother",
+			[
+				55,
+				20,
+				35
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "RETAKE",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Mobian Rose aka. MOTHER",
+	"weekName": "mother",
+	"freeplayColor": [
+		55,
+		20,
+		35
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
